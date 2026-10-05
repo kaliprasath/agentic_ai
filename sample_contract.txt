@@ -1,0 +1,39 @@
+SERVICE AGREEMENT
+
+This Service Agreement is entered into between ABC Technologies
+("Company") and John Smith ("Service Provider").
+
+1. SERVICES
+
+The Service Provider agrees to provide software development services
+to the Company.
+
+2. PAYMENT
+
+The Company shall pay the Service Provider INR 50,000 per month.
+Payment shall be made within 15 days after submission of the invoice.
+
+3. TERM
+
+This agreement begins on 1 January 2026 and continues for a period
+of twelve months.
+
+4. CONFIDENTIALITY
+
+The Service Provider shall keep confidential all business,
+technical and financial information received from the Company.
+
+5. TERMINATION
+
+Either party may terminate this agreement by providing 30 days
+written notice.
+
+6. INTELLECTUAL PROPERTY
+
+All software developed specifically for the Company under this
+agreement shall belong to the Company after full payment.
+
+7. DISPUTES
+
+Any dispute arising from this agreement shall first be resolved
+through discussion between the parties.
